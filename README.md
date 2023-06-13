@@ -13,6 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afreedicp" alt="afreedicp" /></a> </p>
 
+<img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 🔭 Currently working in HAMON TECHNOLOGIES [https://github.com/hamon-in](https://github.com/hamon-in)
 
 - 👨‍💻 All of my projects are available at [https://github.com/afreedicp?tab=repositories](https://github.com/afreedicp?tab=repositories)
