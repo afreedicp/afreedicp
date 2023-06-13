@@ -5,51 +5,45 @@
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=dhhruv&color=blue" alt="dhhruv" /> 
 </p>
-
-I am a graduate student currently enrolled in the Masters program in Applied Computer Science at Concordia University. My passion for continuous personal and professional development drives me to seek opportunities that will enable me to enhance my skills and competencies. I am highly motivated to contribute my expertise to meaningful projects and am eager to find a platform that will support my growth and enable me to excel in my field.
-
+<h3 align="center">I am a Fullstack Developer specialized in React.js and Express.js, delivering seamless user experiences and collaborating effectively with diverse teams.Studied Bachlors Degree in Computer Science.</h3>
 <br>
 <br>
 
 
 <img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### About Me 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afreedicp&label=Profile%20views&color=0e75b6&style=flat" alt="afreedicp" /> </p>
 
-- 🔭 Currently engaging in Competitive Programming activities.
-- 📈 Possess a strong passion for Data Science and Machine Learning.
-- 🤓 Seeking collaboration opportunities for Python-based 🐍 projects.
-- 💬 Always willing to offer assistance and guidance on any relevant topics.
-- 📫 Contact me via my [website](https://dhhruv.github.io).
-- 📝 Review my [Resume]((https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf)) for additional information.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afreedicp" alt="afreedicp" /></a> </p>
 
-<br>
+- 🔭 Currently working in HAMON TECHNOLOGIES [https://github.com/hamon-in](https://github.com/hamon-in)
 
-### Blog posts 🏷
-<!-- BLOG-POST-LIST:START -->
-- [ISSUE-LABELER: Automated Issue Labeling for GitHub](https://dev.to/dhhruv/issue-labeler-1epe)
-- [Sudoku Solver: The Ultimate Tool for Solving Puzzles with Ease](https://dev.to/dhhruv/sudoku-solver-the-ultimate-tool-for-solving-puzzles-with-ease-522b)
-- [Book CoWIN Vaccination Slots directly from your Terminal...](https://dev.to/dhhruv/book-cowin-vaccination-slots-directly-from-your-terminal-7nb)
-- [VacCoWIN - Book CoWIN Slots directly from your Terminal...](https://dev.to/dhhruv/vaccowin-book-cowin-slots-directly-from-your-terminal-bba)
-- [💉 VacCoWIN - Check Available Slots for CoWIN Vaccination right from your Terminal!](https://dev.to/dhhruv/vaccowin-check-available-slots-for-cowin-vaccination-right-from-your-terminal-23f5)
-<!-- BLOG-POST-LIST:END -->
+- 👨‍💻 All of my projects are available at [https://github.com/afreedicp?tab=repositories](https://github.com/afreedicp?tab=repositories)
 
-<br>
+- 📝 I regularly write articles on JavaScript [https://hamon.in/blog/call-by-value-call-by-reference-in-javascript/](https://hamon.in/blog/call-by-value-call-by-reference-in-javascript/)
 
-### Coding Profiles 🧔
-[<img align="left" alt="codeSTACKr | HackerRank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/panchaldhruvn)
-[<img align="left" alt="codeSTACKr | HackerEarth" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@dhhruv23)
-[<img align="left" alt="BinarySearch" src="https://user-images.githubusercontent.com/72680045/103211911-7929b880-492f-11eb-9ea9-cafa0413fedf.png" />](https://binarysearch.com/@/lasa73)
-<br>
-<br>
+- 💬 Ask me about **React JS,Express JS,CSS, HTML, Node, Javascript**
 
-### Connect with me 👋
+- 📫 How to reach me **https://github.com/afreedicp**
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dhhruv/)
-[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dhhruv23/)
-[<img align="left" alt="codeSTACKr | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:dhhruv@protonmail.com)
-[<img align="left" alt="codeSTACKr | Medium" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://dhhruv.medium.com/)
-<a href="https://dev.to/dhhruv">
+- 📄 Know about my experiences [https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.naukri.com/mnjuser/profile?id=&altresid)
+
+- ⚡ Fun fact **I think i am very funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad hassan afreedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad hassan afreedi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15979012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15979012" height="30" width="40" /></a>
+<a href="https://instagram.com/af_zy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="af_zy_" height="30" width="40" /></a>
+<a href="https://medium.com/@afreedicp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@afreedicp" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afreedicp&show_icons=true&locale=en&layout=compact" alt="afreedicp" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afreedicp&show_icons=true&locale=en" alt="afreedicp" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afreedicp&" alt="afreedicp" /></p>
+
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dhruv Panchal's DEV Community Profile" height="35" width="35">
 </a>
 <br>
