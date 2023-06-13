@@ -3,13 +3,10 @@
 ### Hello World! This is [Muhammed Hassan Afreedi CP](https://github.com/afreedicp) 👋
 
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=dhhruv&color=blue" alt="dhhruv" /> 
+	<img src="https://komarev.com/ghpvc/?username=dhhruv&color=blue" alt="afreedi" /> 
 </p>
-<h3 align="center">I am a Fullstack Developer specialized in React.js and Express.js, delivering seamless user experiences and collaborating effectively with diverse teams.Studied Bachlors Degree in Computer Science.</h3>
+<h3>I am a Fullstack Developer specialized in React.js and Express.js, delivering seamless user experiences and collaborating effectively with diverse teams.Studied Bachlors Degree in Computer Science.</h3>
 <br>
-<br>
-
-
 <img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afreedicp&label=Profile%20views&color=0e75b6&style=flat" alt="afreedicp" /> </p>
