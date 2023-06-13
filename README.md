@@ -6,7 +6,7 @@
 <h3>I am a Fullstack Developer specialized in React.js and Express.js, delivering seamless user experiences and collaborating effectively with diverse teams.Studied Bachlors Degree in Computer Science.</h3>
 <br>
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=dhhruv&color=blue" alt="afreedi" /> 
+	<img src="https://komarev.com/ghpvc/?username=afreedicp&color=blue" alt="afreedi" /> 
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afreedicp" alt="afreedicp" /></a> </p>
 
@@ -45,10 +45,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dhruv Panchal's DEV Community Profile" height="35" width="35">
 </a>
 <br>
-<br>
-
-
-
-<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=afreedicp&theme=dark&cache_seconds=1800&show_icons=true&count_private=true" alt="dhhruv" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreedicp&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=dark" alt="dhhruv" width="37%" />
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
