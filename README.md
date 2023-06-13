@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **React JS,Express JS,CSS, HTML, Node, Javascript**
 
-- 📫 How to reach me **https://github.com/afreedicp**
+- 📫 How to reach me **https://github.com/afreedicp** or **afreedicp@gmail.com**
 
 - 📄 Know about my experiences [https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
