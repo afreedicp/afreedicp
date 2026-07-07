@@ -3,7 +3,7 @@
 ### Hello World! This is [Muhammed Hassan Afreedi CP](https://github.com/afreedicp) 👋
 
 
-<h3>I am a Fullstack Developer specialized in React.js and Express.js, delivering seamless user experiences and collaborating effectively with diverse teams.Studied Bachlors Degree in Computer Science.</h3>
+<h3>I am a Fullstack Developer specialized in React.js,Vue.js,SQL,Postgres and Express.js, delivering seamless user experiences and collaborating effectively with diverse teams.Studied Bachlors Degree in Computer Science.</h3>
 <br>
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=afreedicp&color=blue" alt="afreedi" /> 
