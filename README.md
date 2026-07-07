@@ -11,13 +11,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afreedicp" alt="afreedicp" /></a> </p>
 
 <img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-- 🔭 Currently working in HAMON TECHNOLOGIES  [https://hamon.in/]
+- 🔭 Currently working in Innsof  [https://innsof.com/]
   
 - 👨‍💻 All of my projects are available at [https://github.com/afreedicp?tab=repositories](https://github.com/afreedicp?tab=repositories)
 
 - 📝 I regularly write articles on JavaScript [https://hamon.in/blog/call-by-value-call-by-reference-in-javascript/](https://hamon.in/blog/call-by-value-call-by-reference-in-javascript/)
 
-- 💬 Ask me about **React JS,Express JS,CSS, HTML, Node, Javascript**
+- 💬 Ask me about **React JS, Vue.js, Express JS,CSS, HTML, Node, Javascript**
 
 - 📫 How to reach me **https://github.com/afreedicp** or **afreedicp@gmail.com**
 
